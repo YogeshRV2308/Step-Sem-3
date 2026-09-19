@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-
 public class RockPaperScissors {
 
     // Valid choices for the game
