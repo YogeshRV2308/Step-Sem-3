@@ -1,3 +1,4 @@
+package assignment_problems;
 public class Problem1 {
     public static void checkPinLength(String pin) {
         if (pin.length() != 4) {
