@@ -5,7 +5,7 @@ public class TopPerformerTracker {
         int max = scores[0];
 
         // Single pass traversal starting from index 1
-        for (int i = 1; i < scores.length; i++) {
+        for (int i = 1; i < scores.length; i++) 
             if (scores[i] < min) {
                 min = scores[i];
             }
